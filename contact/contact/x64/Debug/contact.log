@@ -1,0 +1,3 @@
+﻿  contact.cpp
+D:\代码库\2022\VS\C++Learning\contact\contact\contact.h(1,1): warning C4828: 文件包含在偏移 0x2ef 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+  contact.vcxproj -> D:\代码库\2022\VS\C++Learning\contact\x64\Debug\contact.exe
